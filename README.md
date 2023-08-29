@@ -1,26 +1,32 @@
-### Hey guys! 😄👋
-<code><img src="https://i.ibb.co/bm33B2d/200.gif" alt="200" border="0"></code>
+### Hello guys
+<code><img src="https://thumbs.gfycat.com/AstonishingDentalGermanspitz-size_restricted.gif" alt="Hello" border="0"></code>
 
-:shipit:My name is Lucas, I'm 19 years old, I'm passionate about technology and inovation.
+My name is Lucas, I'm 22 years old <br />
+🦾 4+ years working with Software Engineering. <br />
+🔥 Helping people and companies to find solutions with technology. <br />
+📍 Currently living in São Paulo, Brazil. <br />
 
-- :seedling: In my spare time, I like to watch movies and learn about mobile and back-end development.
-- :mortar_board: I am a student in the Information Systems course at the ENIAC, expected to conclude on 12/2022. 
-- 📫 I currently live in the city of São Paulo - São Paulo - Brazil.
+ <br />
 
-**Languages and Tools:**<br>
-<code><img height="50" src="https://bognarjunior.files.wordpress.com/2018/01/1crcyaithv7aiqh1z93v99q.png?w=256" alt="JavaScript"></code>
-<code><img height="50" src="https://e7.pngegg.com/pngimages/452/495/png-clipart-react-javascript-angularjs-ionic-github-text-logo-thumbnail.png" alt="React"></code>
-<code><img height="50" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/full/nodejslogo.png" alt="NodeJS"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="Postgresql" border="0"></code>
-<code><img height="50" src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/01/mongodb.png?w=775" alt="MongoDB" border="0"></code>
+## 💼 Main technologies
 
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=NextJS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=Postgresql&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
 
-**You can also find me at:**
+ <br />
 
-Contact :iphone:
-
+## :phone: You can find me at:
 [![Gmail: LucasTiberio](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ltiberio55@gmail.com)](mailto:ltiberio55@gmail.com)
-
-Social :speech_balloon:
 
 [![Linkedin: LucasTiberio](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomaranda/)](https://www.linkedin.com/in/lucas-tiberio/)
