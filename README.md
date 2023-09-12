@@ -1,9 +1,9 @@
 ### Hello guys
-<code><img src="https://thumbs.gfycat.com/AstonishingDentalGermanspitz-size_restricted.gif" alt="Hello" border="0"></code>
+<code><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzA0c3cxODhxbHlqZGJpczJ3a29tOHkybXA1MzliajR5MXh4ODE1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Aj491qX7K45qZs6EP/giphy.gif" alt="Hello" border="0"></code>
 
 My name is Lucas, I'm 22 years old <br />
 🦾 4+ years working with Software Engineering. <br />
-🔥 Helping people and companies to find solutions with technology. <br />
+🔥 Helping people and companies to find solutions with technology and coding. <br />
 📍 Currently living in São Paulo, Brazil. <br />
 
  <br />
